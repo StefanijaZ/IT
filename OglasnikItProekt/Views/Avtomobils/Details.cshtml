@@ -1,0 +1,48 @@
+﻿@model OglasnikItProekt.Models.Avtomobil
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<div>
+    <h2>Автомобил</h2> <h3 class="text-danger">@Html.DisplayFor(model => model.Ime)</h3> 
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dd>
+            <img style="width:200px; height: 200px" src=" @Html.DisplayFor(model => model.imgURL)" />
+        </dd>
+            
+        <br />
+        
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Lokacija)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Lokacija)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cena)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cena)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Opis)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Opis)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Назад", "Index")
+</p>

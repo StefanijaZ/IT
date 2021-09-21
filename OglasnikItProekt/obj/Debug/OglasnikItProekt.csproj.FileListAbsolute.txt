@@ -1,0 +1,445 @@
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.dll.config
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.pdb
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.exe
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.exe.config
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.rsp
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.exe
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.exe.config
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.rsp
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.AppContext.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Console.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.exe
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.exe.config
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.rsp
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Antlr3.Runtime.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Newtonsoft.Json.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Owin.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Helpers.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Mvc.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Optimization.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Razor.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\WebGrease.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Helpers.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Mvc.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Optimization.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Razor.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Newtonsoft.Json.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Antlr3.Runtime.pdb
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.CopyComplete
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.dll
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.pdb
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.Migrations.initial.resources
+C:\Users\user\source\repos\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.GenerateResource.cache
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.dll.config
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.pdb
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.exe
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.exe
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Owin.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\WebGrease.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csprojAssemblyReference.cache
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.Migrations.initial.resources
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.GenerateResource.cache
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.CopyComplete
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.dll
+C:\Users\user\Desktop\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.pdb
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.dll.config
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.pdb
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.exe
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.exe.config
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.rsp
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.exe
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.exe.config
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.rsp
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.AppContext.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Console.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.exe
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.exe.config
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.rsp
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Antlr3.Runtime.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Newtonsoft.Json.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Owin.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Helpers.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Mvc.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Optimization.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Razor.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\WebGrease.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Helpers.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Mvc.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Optimization.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Razor.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Newtonsoft.Json.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Antlr3.Runtime.pdb
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csprojAssemblyReference.cache
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.Migrations.initial.resources
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.GenerateResource.cache
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.CoreCompileInputs.cache
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.CopyComplete
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3)\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.pdb
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.dll.config
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\OglasnikItProekt.pdb
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.exe
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.exe.config
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csc.rsp
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.exe
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.exe.config
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\csi.rsp
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.AppContext.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Console.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Claims.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.exe
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.exe.config
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\vbc.rsp
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Antlr3.Runtime.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Newtonsoft.Json.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Owin.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Helpers.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Mvc.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Optimization.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Razor.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\WebGrease.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Helpers.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Mvc.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Optimization.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.Razor.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Newtonsoft.Json.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Antlr3.Runtime.pdb
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csprojAssemblyReference.cache
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.Migrations.initial.resources
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.GenerateResource.cache
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.CoreCompileInputs.cache
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.csproj.CopyComplete
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.dll
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.pdb
+C:\Users\Stefanija\Desktop\ana-marija\New folder (3) - Copy\OglasnikItProekt\OglasnikItProekt\obj\Debug\OglasnikItProekt.Migrations.end.resources

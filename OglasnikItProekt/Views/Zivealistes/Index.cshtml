@@ -1,0 +1,57 @@
+﻿@model IEnumerable<OglasnikItProekt.Models.Zivealiste>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="text-align: center">Живеалишта</h2>
+@if (User.Identity.IsAuthenticated)
+{
+    <p>
+        <button class="btn btn-danger"> @Html.ActionLink("+ Нов Оглас", "Create", "Zivealistes", new { Style = "color:white; text-decoration:none" })</button>
+    </p>
+}
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.imgURL)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lokacija)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cena) $
+            </th>
+            <th>
+
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img style="width:150px; height: 120px" src=" @Html.DisplayFor(model => item.imgURL)" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Lokacija)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cena)
+                </td>
+                <td></td>
+                <td>
+                    @Html.ActionLink("Види повеќе...", "Details", new { id = item.ZivealisteID })
+                </td>
+            </tr>
+        }
+
+    </table>
+    @Html.ActionLink("Назад", "../Home/kategorii")
